@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OptionSettingsSave>
+	<!-- This will hold all available info for the more specific Graphic Settings -->
+	<graphicsSettings>
+		<antiAliasingEnabled>false</antiAliasingEnabled>
+		<motionBlurEnabled>false</motionBlurEnabled>
+	</graphicsSettings>
+	<!-- This will hold all available info for Audio Settings -->
+	<audioSettings>
+		<mainVolume>100</mainVolume>
+		<musicVolume>100</musicVolume>
+		<effectsVolume>100</effectsVolume>
+		<subtitles>false</subtitles>
+	</audioSettings>
+	<fullscreen>true</fullscreen>
+	<resolutionWidth></resolutionWidth>
+	<resolutionHeight></resolutionHeight>
+	<qualityPreset></qualityPreset>
+	<fieldOfView></fieldOfView>
+	<brightness></brightness>
+</OptionSettingsSave>

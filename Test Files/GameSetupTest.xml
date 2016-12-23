@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameSetupTest>
+	<sceneID></sceneID>
+	<progressionCheck>
+		<hasStartedLoop>false</hasStartedLoop>
+		<hasMetMiddleMan>false</hasMetMiddleMan>
+		<hasBeatenLevelOne>false</hasBeatenLevelOne>
+		<hasBeatenLevelTwo>false</hasBeatenLevelTwo>
+		<hasBeatenLevelThree>false</hasBeatenLevelThree>
+		<hasBeatenLevelFour>false</hasBeatenLevelFour>
+		<hasBeatenLevelFive>false</hasBeatenLevelFive>
+		<hasBeatenLevelSix>false</hasBeatenLevelSix>
+		<hasBeatenLevelSeven>false</hasBeatenLevelSeven>
+	</progressionCheck>
+</gameSetupTest>
